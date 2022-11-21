@@ -3668,8 +3668,8 @@ input, select, textarea {
 
 				.spotlight .image.main {
 					display: block;
-					margin: 0;
-					max-height: 40vh;
+					margin: auto;
+					max-height: 100vh;
 					overflow: hidden;
 				}
 
@@ -3812,7 +3812,8 @@ input, select, textarea {
 			}
 
 				.spotlight .image.main {
-					max-height: 60vh;
+					max-height:100vh;
+					margin: auto;
 				}
 
 				.spotlight .content {
@@ -4072,7 +4073,8 @@ input, select, textarea {
 		/* Spotlight */
 
 			.spotlight .image.main {
-				max-height: 50vh;
+				max-height: 100vh;
+				margin: auto;
 			}
 
 			.spotlight .content {
